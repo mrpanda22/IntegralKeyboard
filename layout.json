@@ -1,4 +1,4 @@
-["Esc","Q","W","E","R","T","Y","U","I","O","P","Back<br>Space"],
-[{w:1.25},"Tab","A","S","D","F","G","H","J","K","L",{w:1.75},"Enter"],
-[{w:1.75},"Shift","Z","X","C","V","B","N","M","<\n.",{w:1.25},"Shift","Fn"],
-[{w:1.25},"Ctrl","Super","Alt",{a:7,w:6.25},"",{a:4,w:1.25},"Alt",{w:1.25},"Ctrl"]
+["Esc\n\n\n~","Q\n\n\n1","W\n\n\n2","E\n\n\n3","R\n\n\n4","T\n\n\n5","Y\n\n\n6","U\n\n\n7","I\n\n\n8","O\n\n\n9","P\n\n\n0","BS"],
+[{w:1.25},"Tab","A\n\n\n-","S\n\n\n=","D\n\n\n:","F\n\n\n'","G","H\n\n\nUA","J","K","L",{w:1.75},"Enter\n\n\nDel"],
+[{w:1.75},"Shift","Z","X","C","V",{fa:[0,0,0,1]},"B\n\n\nLA","N\n\n\nDA",{f:3},"M\n\n\nRA",{f:3},",\n\n\n[",{f:3,w:1.25},".\n\n\n]",{f:3},"/\n\n\n\\"],
+[{w:1.25},"Ctrl","Super","Alt",{a:7,w:6.25},"",{a:4,w:1.25},"Fn",{w:1.25},"rAlt"]
